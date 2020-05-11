@@ -1,3 +1,5 @@
+#Scripts control_2011 and urban_2060 should be run beforehand. 
+
 library(dplyr)
 library(plyr)
 library(ggplot2)
